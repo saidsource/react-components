@@ -10,4 +10,5 @@ In this repo, I set myself the challenge of making 30 beautiful components in 10
 | Day             |  Component1 | Component2 | Component3 |
 :-------------------------:|:-------------------------:| :-------------------------:|:-------------------------:
 27 November 2022 | [![img](./images/accordion.png)](../../tree/day1) | [![img](./images/module.png)](../../tree/day1) | [![img](./images/pdfCard.png)](../../tree/day1)
+28 November 2022 | [![img](./images/underlinedText.png)](../../tree/day2) | [![img](./images/empty.png)](../../tree/day2) | [![img](./images/empty.png)](../../tree/day2)
 
